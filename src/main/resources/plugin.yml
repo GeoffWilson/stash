@@ -1,0 +1,11 @@
+ name: PiglsetStash
+ version: 1.0-SNAPSHOT
+ description: Tracks chest contents for the website
+ authors: [Geoff, Ben]
+ website: http://www.pigletcraft.com
+
+ main: co.piglet.stash.StashPlugin
+
+ commands:
+
+ permissions:
